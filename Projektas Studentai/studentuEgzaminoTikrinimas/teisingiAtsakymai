@@ -1,0 +1,24 @@
+{
+  "TeisingiAtsakymai": [
+    {
+      "klausimoNr": 1,
+      "pateiktasAtsakymas": "a"
+    },
+    {
+      "klausimoNr": 2,
+      "pateiktasAtsakymas": "c"
+    },
+    {
+      "klausimoNr": 3,
+      "pateiktasAtsakymas": "b"
+    },
+    {
+      "klausimoNr": 4,
+      "pateiktasAtsakymas": "a"
+    },
+    {
+      "klausimoNr": 5,
+      "pateiktasAtsakymas": "b"
+    }
+  ]
+}

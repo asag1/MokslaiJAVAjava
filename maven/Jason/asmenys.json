@@ -1,0 +1,12 @@
+{
+  "sender": {
+    "vardas": "Jonas",
+    "amzius": 10,
+    "payment": 500
+  },
+  "receiver": {
+    "vardas": "Karolis",
+    "amzius": 30,
+    "payment": 741
+  }
+}

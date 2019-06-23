@@ -1,0 +1,34 @@
+{
+  "Studentai": {
+    "id": 100,
+    "name": "Jonas",
+    "lastName": "Jonaitis"
+  },
+  "Egzaminas": {
+    "egzaminoNr": 1,
+    "pavadinimasEgzamino": "ekonomikos",
+    "testas": "TESTAS"
+  },
+  "Atsakymai": [
+    {
+      "klausimoNr": 1,
+      "pateiktasAtsakymas": "a"
+    },
+    {
+      "klausimoNr": 2,
+      "pateiktasAtsakymas": "b"
+    },
+    {
+      "klausimoNr": 3,
+      "pateiktasAtsakymas": "c"
+    },
+    {
+      "klausimoNr": 4,
+      "pateiktasAtsakymas": "a"
+    },
+    {
+      "klausimoNr": 5,
+      "pateiktasAtsakymas": "b"
+    }
+  ]
+}

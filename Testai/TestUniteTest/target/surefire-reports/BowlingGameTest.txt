@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: BowlingGameTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.099 sec <<< FAILURE! - in BowlingGameTest
+testBowlingGame_firstThrow4_results4  Time elapsed: 0.077 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <4> but was: <0>
+	at BowlingGameTest.testBowlingGame_firstThrow4_results4(BowlingGameTest.java:13)
+
